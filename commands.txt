@@ -1,0 +1,10 @@
+git config --global user.name "nithinkolanu19"
+git config --global user.email "nithinkolanu111@gmail.com"
+git config --global color.ui auto
+
+git init (to initialise and create .git file)
+
+git pull origin main (to pull something to the editor (VSCode))
+
+
+git status (to check the status before we push to git)
